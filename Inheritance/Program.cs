@@ -8,7 +8,7 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World To All!");
 
             Console.WriteLine("Enter Length:");
             int length = Convert.ToInt32(Console.ReadLine());
